@@ -1,26 +1,21 @@
-# devfolio
-A simple, responsive, single-page portfolio and resume for developers built with Bulma, Sass, Font Awesome and Flickity.
+# Say Hi
+## About Me
+Hello, my name is Beatrice Li. I have recently embarked on a career change journey from an e-commerce operations role into the field of quality assurance. In my previous position, I managed brand site operations, which allowed me to develop strong analytical and problem-solving skills.
 
-View the [demo here](https://mmacneil.github.io/devfolio/).
+With the rapid advancement of AI technologies, I recognize the growing importance of robust system design and quality assurance. This realization has driven my desire to focus on test automation and enhance the quality of software systems. I’m eager to leverage my background in operations and my passion for technology to contribute effectively to your team. Thank you for the opportunity to discuss how I can add value to your organization.
 
-### Desktop version
-<img src="https://github.com/mmacneil/devfolio/blob/master/docs/devfolio-desktop.gif" />
+## Work Experience
 
-### Responsive version
-<img src="https://github.com/mmacneil/devfolio/blob/master/docs/devfolio-responsive.gif" height="485" />
 
-## Setup
+## Skills
 
-1. Clone, fork or create a template from this repository.
-2. Install required dependencies from your terminal by running `npm install` from the project folder root containing `package.json`.
- <pre>
- <code>src\>npm install</code></pre>
-3. Use webpack to compile and bundle the css/js by running `npm run build` from the project folder root containing `webpack.config.js`.  Webpack will also begin watching these files for changes and re-build as they're modified.
- <pre>
- <code>src\>npm run build</code></pre>
- 4. Open `index.html` locally in your favorite browser.
- 5. Modify accordingly - styles, colors and variables can be changed in `styles.scss`.  Refer to the Bulma docs for guidance on how to quickly customize further to suit your tastes using  [color helpers](https://bulma.io/documentation/modifiers/color-helpers/) and [variables](https://bulma.io/documentation/customize/variables/).  See the [Flickity](https://github.com/metafizzy/flickity) docs if you wish to modify the carousel.
+
+## Works
+
+
+## Certificaiton
+
  
- ## Contact
- markmacneil@gmail.com
+### Contact
+lichiyung2015@gmail.com
  

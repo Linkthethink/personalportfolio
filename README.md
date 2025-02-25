@@ -4,11 +4,6 @@ Hello, my name is Beatrice Li. I have recently embarked on a career change from 
 
 With the rapid advancement of AI technologies, I recognize the growing importance of robust system design and quality assurance. This realization has driven my desire to focus on test automation and enhance the quality of software systems. I’m eager to leverage my background in ecommerce operations and my passion for technology to contribute effectively to your team.
 
-## Work Experience
-
-
-## Skills
-
 
 ## Works
 Personal Portfolio Site: Linkthethink.github.io
